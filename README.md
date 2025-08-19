@@ -6,7 +6,11 @@
 <div align="center"> 
   <img alt="top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrooneJ&hide=HTML,CSS&layout=compact&theme=tokyonight" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=BrooneJ&show_icons=true&theme=tokyonight" />
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=BrooneJ&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/BrooneJ"
+      width="600"
+      height="300"
+    />
+  </a>
 </div>
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/brooneJ?pet-id=1" width="1000" height="120"/>
-</a>
